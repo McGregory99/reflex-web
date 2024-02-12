@@ -13,7 +13,6 @@ def header() -> rx.Component:
         rx.text("""Soyingeniero en telecomunicaciones, con ms in fintech
                 actualmente trabaoj en GRASP on unos satelites
                 Leo muchos libros y me gusta el emprendimiento
-                """),
-        links()
+                """)
         
     )
